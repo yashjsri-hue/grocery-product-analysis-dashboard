@@ -1,0 +1,44 @@
+# Power BI
+*.pbi/
+*.pbip/
+*.pbit
+*.tmp
+
+# Power BI backup / temporary files
+*.bak
+*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# CSV / data files
+# Uncomment if datasets should NOT be uploaded to GitHub
+# *.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Temporary files
+*.tmp
+*.temp
